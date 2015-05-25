@@ -1,0 +1,10 @@
+Cmp-Mod V01 Created by CvPcb (2014-02-26 BZR 4721)-product date = Friday, 16 January 2015 20:29:04
+
+BeginCmp
+TimeStamp = /54B8BB96;
+Reference = U1;
+ValeurCmp = MCP4922;
+IdModule  = ;
+EndCmp
+
+EndListe
