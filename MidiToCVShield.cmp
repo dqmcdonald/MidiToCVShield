@@ -1,10 +1,227 @@
-Cmp-Mod V01 Created by CvPcb (2014-02-26 BZR 4721)-product date = Friday, 16 January 2015 20:29:04
+Cmp-Mod V01 Created by CvPcb (2014-02-26 BZR 4721)-product date = Thursday, 28 May 2015 06:24:05
+
+BeginCmp
+TimeStamp = /55556CDE;
+Reference = C1;
+ValeurCmp = 10uF tant;
+IdModule  = smd_capacitors:c_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /55563E51;
+Reference = C2;
+ValeurCmp = 0.1uF;
+IdModule  = smd_capacitors:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55556D94;
+Reference = C3;
+ValeurCmp = 0.1uF;
+IdModule  = smd_capacitors:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /555657C7;
+Reference = C4;
+ValeurCmp = 0.1uF;
+IdModule  = smd_capacitors:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5551C130;
+Reference = D1;
+ValeurCmp = DIODE;
+IdModule  = smd_capacitors:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5552C815;
+Reference = K1;
+ValeurCmp = CONN_3;
+IdModule  = pin_array:PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5551C0E0;
+Reference = OC1;
+ValeurCmp = 6N137;
+IdModule  = DQM:6N137;
+EndCmp
+
+BeginCmp
+TimeStamp = /55555C5D;
+Reference = P1;
+ValeurCmp = CONN_2;
+IdModule  = pin_array:PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5556492D;
+Reference = P2;
+ValeurCmp = CONN_2;
+IdModule  = pin_array:PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /555641FE;
+Reference = P3;
+ValeurCmp = CONN_2;
+IdModule  = pin_array:PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /55555D49;
+Reference = P4;
+ValeurCmp = CONN_2;
+IdModule  = pin_array:PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /55555B59;
+Reference = P5;
+ValeurCmp = CONN_2;
+IdModule  = pin_array:PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5556451A;
+Reference = P6;
+ValeurCmp = CONN_2;
+IdModule  = pin_array:PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5551C164;
+Reference = P7;
+ValeurCmp = CONN_2;
+IdModule  = pin_array:PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5552BEB7;
+Reference = P8;
+ValeurCmp = CONN_2;
+IdModule  = pin_array:PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5551C1B7;
+Reference = P9;
+ValeurCmp = CONN_1;
+IdModule  = pin_array:PIN_ARRAY_1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5551C290;
+Reference = P10;
+ValeurCmp = CONN_1;
+IdModule  = pin_array:PIN_ARRAY_1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5551C466;
+Reference = P11;
+ValeurCmp = CONN_1;
+IdModule  = pin_array:PIN_ARRAY_1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5556513A;
+Reference = Q1;
+ValeurCmp = PN2222A;
+IdModule  = DQM:sot23;
+EndCmp
+
+BeginCmp
+TimeStamp = /55564AB6;
+Reference = R1;
+ValeurCmp = 10K;
+IdModule  = smd_capacitors:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5556514E;
+Reference = R2;
+ValeurCmp = 1K;
+IdModule  = smd_capacitors:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55565171;
+Reference = R3;
+ValeurCmp = 10K;
+IdModule  = smd_capacitors:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55555B6D;
+Reference = R4;
+ValeurCmp = 270R;
+IdModule  = smd_capacitors:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /555645E2;
+Reference = R5;
+ValeurCmp = 10K;
+IdModule  = smd_capacitors:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /555645F6;
+Reference = R6;
+ValeurCmp = 10K;
+IdModule  = smd_capacitors:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5552BECB;
+Reference = R7;
+ValeurCmp = 220R;
+IdModule  = smd_capacitors:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5552BF78;
+Reference = R8;
+ValeurCmp = 220R;
+IdModule  = smd_capacitors:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5551C101;
+Reference = R9;
+ValeurCmp = 220R;
+IdModule  = smd_capacitors:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5551C3F0;
+Reference = R10;
+ValeurCmp = 270R;
+IdModule  = smd_capacitors:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /555176AF;
+Reference = SHIELD1;
+ValeurCmp = ARDUINO_SHIELD;
+IdModule  = arduino_shields:ARDUINO_SHIELD;
+EndCmp
 
 BeginCmp
 TimeStamp = /54B8BB96;
 Reference = U1;
 ValeurCmp = MCP4922;
-IdModule  = ;
+IdModule  = DQM:MCP4922;
+EndCmp
+
+BeginCmp
+TimeStamp = /5552B568;
+Reference = U2;
+ValeurCmp = 74LS14;
+IdModule  = ref-packages:-SO-14;
 EndCmp
 
 EndListe

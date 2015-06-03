@@ -1,6 +1,6 @@
-update=Tuesday, 12 May 2015 20:53:38
+update=Wednesday, 03 June 2015 14:51:23
 version=1
-last_client=eeschema
+last_client=kicad
 [cvpcb]
 version=1
 NetIExt=net
@@ -42,8 +42,6 @@ LibName13=led
 LibName14=dip_sockets
 LibName15=pga_sockets
 LibName16=valves
-[general]
-version=1
 [eeschema]
 version=1
 PageLayoutDescrFile=
@@ -89,3 +87,5 @@ LibName30=valves
 LibName31=DQM
 LibName32=arduino_shieldsNCL
 LibName33=optocoupler
+[general]
+version=1
